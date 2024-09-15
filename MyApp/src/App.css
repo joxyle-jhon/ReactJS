@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #8758ff;
+  background: #00B4DB;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,14 +24,14 @@ h1 {
   font-size: 1.75rem;
 }
 
-.Wrapper {
-  background: #1A1A40;
+.TodoWrapper {
+  background: #132b36;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
 }
 
-.Form {
+.TodoForm {
   width: 100%;
   margin-bottom: 1rem;
 }
@@ -39,7 +39,7 @@ h1 {
 .todo-input {
   outline: none;
   background: none;
-  border: 1px solid #8758ff;
+  border: 1px solid #00B4DB;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .todo-btn {
-  background: #8758ff;
+  background: #00B4DB;
   color: #fff;
   border: none;
   padding: 0.55rem;
@@ -63,7 +63,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #8758ff;
+  background: #00B4DB;
   color: #fff;
   padding: 0.75rem 1rem;
   border-radius: 5px;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: #7ae0f7;
   text-decoration: line-through;
   cursor: pointer;
 }
