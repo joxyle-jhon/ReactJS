@@ -18,10 +18,4 @@ To get started with practicing React JS:
 ## Contributions
 Contributions to this repository are welcome! Whether it's fixing a bug, adding new exercises, or improving documentation, your contributions help make this resource better for everyone. Please follow the guidelines in the `CONTRIBUTING.md` file.
 
-## Feedback
-If you have any feedback, suggestions, or issues, feel free to open an issue or reach out to the maintainers. Your feedback helps us improve this repository and make it more useful for the community.
-
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
 Happy coding!
